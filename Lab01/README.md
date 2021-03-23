@@ -1,3 +1,3 @@
 # LAB01 - Emprestimos
 
-Laboratório presente...
+A resolução deste laboratário está presente nesse link: [Lab01](/Notebooks/emprestimo01-ra216474.ipynb)
