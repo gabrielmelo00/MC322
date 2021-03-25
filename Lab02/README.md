@@ -18,6 +18,6 @@ Criar um método que codifique um RNA a partir de uma cadeia de DNA.
 ## Desafio 4
 Implementar um programa que mostre quantos funcionários recebem mais que a média salarial de uma dada empresa.
 
-A resolução completa deste laboratário está presente nesse link: [Lab02](https://github.com/gabrielmelo00/MC322/blob/main/Lab02/Notebook/lab02-java-estruturas.ipynb)
+A resolução completa deste laboratário está presente nesse link: [Lab02](https://github.com/gabrielmelo00/MC322/blob/main/Lab02/Notebook/lab02-java-estruturas-ra216474.ipynb)
 
 
