@@ -20,4 +20,4 @@ Para este laboratório, usaremos os seguintes dados:
 
 Resolveremos o problema do empréstimo com diversas abordagens para entender alguns princípios necessários para a programação orientada a objetos.
 
-A resolução deste laboratário está presente nesse link: [Lab01](https://github.com/gabrielmelo00/MC322/blob/main/Lab01/Notebooks/emprestimo01-ra216474.ipynb)
+A resolução deste laboratório está presente nesse link: [Lab01](https://github.com/gabrielmelo00/MC322/blob/main/Lab01/Notebooks/emprestimo01-ra216474.ipynb)
