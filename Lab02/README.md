@@ -20,6 +20,6 @@ Implementar um programa que mostre quantos funcionários recebem mais que a méd
 
 ## Resolução
 
-A resolução completa deste laboratário está presente nesse link: [Lab02](https://github.com/gabrielmelo00/MC322/blob/main/Lab02/Notebook/lab02-java-estruturas-ra216474.ipynb)
+A resolução completa deste laboratório está presente nesse link: [Lab02](https://github.com/gabrielmelo00/MC322/blob/main/Lab02/Notebook/lab02-java-estruturas-ra216474.ipynb)
 
 
