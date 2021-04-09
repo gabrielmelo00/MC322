@@ -38,7 +38,7 @@ Onde:
 * `V` - a lombriga vira.
 
 
-## Notebook sobre Lombriga no Aquário:
+## Notebook sobre Lombriga no Aquário
 * A resolução no Jupyter deste laboratório está presente nesse link: [notebook](https://github.com/gabrielmelo00/MC322/blob/main/Lab03/notebook/lab-lombriga-ra216474.ipynb)
 
 ## Arquivos Java sobre Lombriga no Aquário
