@@ -38,5 +38,7 @@ Onde:
 * `V` - a lombriga vira.
 
 
-A resolução no Jupyter deste laboratório está presente nesse link: [notebook](https://github.com/gabrielmelo00/MC322/blob/main/Lab03/notebook/lab-lombriga-ra216474.ipynb)
-A resolução no Eclipse deste laboratório está presente nesse link: [src](https://github.com/gabrielmelo00/MC322/tree/main/Lab03/src/mc322/lab03)
+## RESOLUÇÃO:
+
+* A resolução no Jupyter deste laboratório está presente nesse link: [notebook](https://github.com/gabrielmelo00/MC322/blob/main/Lab03/notebook/lab-lombriga-ra216474.ipynb)
+* A resolução no Eclipse deste laboratório está presente nesse link: [src](https://github.com/gabrielmelo00/MC322/tree/main/Lab03/src/mc322/lab03)
