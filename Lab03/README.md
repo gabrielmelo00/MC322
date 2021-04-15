@@ -40,10 +40,10 @@ Onde:
 ### Métodos
 * `construtor` - no construtor é informado como parâmetro: a string de animação, conforme a descrição anterior;
 * `apresenta` - retorna uma String com a lombriga no aquário no estado atual (a primeira vez que o método é chamado, apresenta o estado inicial da lombriga - sem animação);
-* `passo` - executa um único passo da animação
+* `passo` - executa um único passo da animação.
 
 ## Casos Especiais
-* Caso for especificada uma lombriga maior que o aquário, então o tamanho do aquário passa a ser o tamanho da lombriga somada à posição da lombrga
+* Caso for especificada uma lombriga maior que o aquário, então o tamanho do aquário passa a ser o tamanho da lombriga somada à posição da lombriga;
 * Caso a  lombriga não couber na posição especificada, entã coloca-se a lombriga na posição 1.
 
 ## Notebook sobre Lombriga no Aquário
