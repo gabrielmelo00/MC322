@@ -16,17 +16,17 @@ O tabuleiro é representado da seguinte forma:
   a b c d e f g
 ~~~
 
-Onde `P` representa as peças e `-` representa o espaçoa vazio.
+Onde `P` representa as peças e `-` representa o espaço vazio.
   
 ## Entradas
-O programa receberá um arquivo `.csv` contendo todas as jogadas que serão executadas. As jogadas serão da seguinte forma:
+O programa receberá um arquivo `.csv` contendo todas as jogadas que serão executadas. As jogadas serão dadas da seguinte forma:
 
 * `f4:d4` - peça sai da posição `f4` e, se for uma jogada válida, vai para a posição `d4`.
 
 Exemplo de um arquivo [csv]().
 
 ## Saídas
-O programa exibe cada jogada na do `.csv` na saída padrão e as armezena em um vetor de Strings.
+O programa exibe cada jogada presente no arquivo `.csv` na saída padrão e as armezena em um vetor de Strings. Caso seja uma jogada inválida, não ocorre alteração do estado.
 
 ## Classes
 
