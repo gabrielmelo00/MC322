@@ -23,7 +23,7 @@ O programa receberá um arquivo `.csv` contendo todas as jogadas que serão exec
 
 * `f4:d4` - peça sai da posição `f4` e, se for uma jogada válida, vai para a posição `d4`.
 
-Exemplo de um arquivo [csv]().
+Exemplo de um arquivo [csv](https://github.com/gabrielmelo00/MC322/blob/main/Lab04/src/mc322/RestaUm.csv).
 
 ## Saídas
 O programa exibe cada jogada presente no arquivo `.csv` na saída padrão e as armezena em um vetor de Strings. Caso seja uma jogada inválida, não ocorre alteração do estado.
@@ -36,4 +36,4 @@ O programa exibe cada jogada presente no arquivo `.csv` na saída padrão e as a
 * `AppRestaUm` - Executa o jogo.
 
 ## Arquivos Java contendo o jogo Resta Um
-* A resolução no Eclipse deste laboratório está presente nesse [link]().
+* A resolução no Eclipse deste laboratório está presente nesse [link](https://github.com/gabrielmelo00/MC322/tree/main/Lab04/src/mc322/lab04).
