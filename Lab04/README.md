@@ -1,6 +1,7 @@
 # LAB04 - Resta Um
 Implementar, por meio de classes, um jogo de Resta Um.
-Este laboratório foi feito em dupla com a aluna Hannah de Oliveira Plath 198642
+
+* Observação: este laboratório foi feito em dupla com a aluna Hannah de Oliveira Plath
 
 ## Tabuleiro
 
