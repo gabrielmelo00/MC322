@@ -25,7 +25,7 @@ O programa receberá um arquivo `.csv` contendo todas as jogadas que serão exec
 
 * `f4:d4` - peça sai da posição `f4` e, se for uma jogada válida, vai para a posição `d4`.
 
-Exemplo de um arquivo [csv](https://github.com/gabrielmelo00/MC322/blob/main/Lab04/src/mc322/RestaUm.csv).
+Exemplo de um arquivo [csv](https://github.com/gabrielmelo00/MC322/blob/main/Lab04/data/RestaUm.csv).
 
 ## Saídas
 O programa exibe cada jogada presente no arquivo `.csv` na saída padrão e as armezena em um vetor de Strings. Caso seja uma jogada inválida, não ocorre alteração do estado.
