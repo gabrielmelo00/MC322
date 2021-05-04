@@ -44,7 +44,7 @@ Para acionar o jogo é necessário:
 1. Copiar a pasta Lab04 do github para o seu computador;
 2. Criar um arquivo `.csv` contendo as jogadas ou alterar o já existente, [`RestaUm.csv`](https://github.com/gabrielmelo00/MC322/blob/main/Lab04/data/RestaUm.csv);
 3. Salvar o arquivo `.csv` na pasta `data`
-4. Alterar o parâmetro do método [`setDataSource`](https://github.com/gabrielmelo00/MC322/blob/70fa93f30d90a2e1b08d969b8f93dea71fb4786f/Lab04/src/mc322/lab04/AppRestaUm.java#L31) na linha 31  para o caminho contendo o arquvio `.csv`. Para as configurações atuais de pastas presente neste github, basta alterar o parâmetro para `"../LabRestaUm/data/RestaUm.csv"` para executar o jogo.
+4. Alterar o parâmetro do método [`setDataSource`](https://github.com/gabrielmelo00/MC322/blob/70fa93f30d90a2e1b08d969b8f93dea71fb4786f/Lab04/src/mc322/lab04/AppRestaUm.java#L31) na linha 31 do `AppRestaUm.java` para o caminho contendo o arquvio `.csv`. Para as configurações atuais de pastas presente neste github, basta alterar o parâmetro para `"../LabRestaUm/data/RestaUm.csv"` para executar o jogo.
 
 ## Arquivos Java contendo o jogo Resta Um
 * A resolução no Eclipse deste laboratório está presente nesse [link](https://github.com/gabrielmelo00/MC322/tree/main/Lab04/src/mc322/lab04).
